@@ -1,0 +1,9 @@
+1. Install a central DB, I'd recommend redis due to its feasibility.
+2. Store the data, in redis for the first time.
+3. Wo kaise store karna hai wo dekhte hain.
+4. Write GET APIs or a single API to cater to all of your requests.
+5. Make sure to write distinctive APIs jo ek particular kaam ko hi karein.
+
+1. Read file Stock list.json using fs via nodejs.
+2. When it comes to your object in your code, let me know.
+

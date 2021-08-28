@@ -13,6 +13,9 @@
   "author": "Yashasvvi Singh Akash Katiyar",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "ioredis": "^4.27.8",
+    "redis": "^3.1.2"
   }
 }
